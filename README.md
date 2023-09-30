@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexMcGarity
 - 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning python 3.10
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: amcgarity123@gmail.com
 
